@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Endper and I'm 14 years old. I'm a game dev developer.
+- 👋 Hi, I’m Endper and I'm 14 years old. I'm a game developer.
 - 👀 I’m a JavaScript programmer for almost 3 years now. I'm also a Python programmer since May 2024.
 - 🌱 I’m currently learning Godot and doing some AI engineering.
 - 💞️ I'm happy to chat with you about any of my projects.
