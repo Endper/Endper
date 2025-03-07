@@ -6,4 +6,4 @@
 - 💻 Besides programming I do digital, traditional, and pixel art, watching YouTube, and sleeping.
 - 🔗 Where I post my pixel art: https://www.pixilart.com/hotdogstar9. My non-pixel art account: https://bsky.app/profile/endper.bsky.social.
 
-And don't forget to Stay Healthy💚
+**And don't forget to Stay Healthy💚**
